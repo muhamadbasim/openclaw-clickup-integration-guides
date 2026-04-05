@@ -1,0 +1,26 @@
+<svg width="1280" height="720" viewBox="0 0 1280 720" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1280" height="720" fill="#0B1020"/>
+  <rect x="48" y="48" width="1184" height="624" rx="28" fill="#11182D" stroke="#2A3558"/>
+  <text x="88" y="128" fill="#F8FAFC" font-size="42" font-family="Arial, Helvetica, sans-serif" font-weight="700">OpenClaw × ClickUp Integration Guides</text>
+  <text x="88" y="170" fill="#94A3B8" font-size="22" font-family="Arial, Helvetica, sans-serif">Choose the route that fits your environment: native tools or manual MCP setup.</text>
+
+  <rect x="88" y="224" width="512" height="344" rx="24" fill="#0F1E37" stroke="#2563EB" stroke-width="2"/>
+  <text x="120" y="282" fill="#DBEAFE" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="700">Native route</text>
+  <text x="120" y="320" fill="#93C5FD" font-size="20" font-family="Arial, Helvetica, sans-serif">Use built-in OpenClaw ClickUp tools</text>
+  <text x="120" y="382" fill="#E2E8F0" font-size="24" font-family="Arial, Helvetica, sans-serif">• Fastest path</text>
+  <text x="120" y="422" fill="#E2E8F0" font-size="24" font-family="Arial, Helvetica, sans-serif">• No MCP config if tools already exist</text>
+  <text x="120" y="462" fill="#E2E8F0" font-size="24" font-family="Arial, Helvetica, sans-serif">• Best for day-to-day usage</text>
+  <rect x="120" y="498" width="208" height="44" rx="12" fill="#16A34A"/>
+  <text x="145" y="527" fill="#F0FDF4" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700">clickup__*</text>
+
+  <rect x="680" y="224" width="512" height="344" rx="24" fill="#2A160F" stroke="#F59E0B" stroke-width="2"/>
+  <text x="712" y="282" fill="#FEF3C7" font-size="34" font-family="Arial, Helvetica, sans-serif" font-weight="700">MCP route</text>
+  <text x="712" y="320" fill="#FCD34D" font-size="20" font-family="Arial, Helvetica, sans-serif">Use a reusable manual MCP definition</text>
+  <text x="712" y="382" fill="#F8FAFC" font-size="24" font-family="Arial, Helvetica, sans-serif">• Better portability</text>
+  <text x="712" y="422" fill="#F8FAFC" font-size="24" font-family="Arial, Helvetica, sans-serif">• Good for reinstalling later</text>
+  <text x="712" y="462" fill="#F8FAFC" font-size="24" font-family="Arial, Helvetica, sans-serif">• Stored in OpenClaw config</text>
+  <rect x="712" y="498" width="296" height="44" rx="12" fill="#D97706"/>
+  <text x="738" y="527" fill="#FFF7ED" font-size="22" font-family="Arial, Helvetica, sans-serif" font-weight="700">clickup-mcp-server@1.12.0</text>
+
+  <text x="88" y="626" fill="#64748B" font-size="18" font-family="Arial, Helvetica, sans-serif">Visual preview generated for README presentation. Replace later with real screenshots if needed.</text>
+</svg>
